@@ -1,7 +1,8 @@
 # Ben Dill's README 
- 
+
 Hi, I’m Ben! I’m a Staff Engineer. 
- 
+![891716_514220788634866_1255477097_o](https://user-images.githubusercontent.com/1652318/173474523-0ebc52e2-e2fc-4b39-9163-65642fad3b82.jpg)
+
 I’ve worked in a lot of different roles across my career - QA, DevOps, Software Developer, on desktop Windows applications, web apps, mobile-optimized sales funnels, and now video platforms. 
  
 This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before. It’s also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of people who might be on my team. Please feel free to contribute to this page by opening a merge request. 
